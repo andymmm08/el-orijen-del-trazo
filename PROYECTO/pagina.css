@@ -1,0 +1,28 @@
+.f {
+    display: flex;
+    align-items: center;
+    gap: 20 px;
+}
+.imagen1 {
+    width: 1200px; 
+    height: 500px;
+
+.imagen2{
+    width: 500;
+    height: 400;
+}
+
+.imagen3{
+    width: 100;
+    height: 50;
+}
+.imagen4{
+    width:1300px;
+    height: 500px;
+    }
+
+}
+}
+.restspace {
+    flex: 1;
+}
